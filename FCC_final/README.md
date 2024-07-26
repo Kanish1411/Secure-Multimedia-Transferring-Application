@@ -1,7 +1,7 @@
 ####
 pip install -r req.txt
  
-to install alla the packages required for this code to run
+to install all the packages required for this code to run
 
 if some package causes error update your pip
 
